@@ -1,0 +1,6 @@
+.clickableIcon{
+    cursor:pointer;
+}
+.nonClickableIcon{
+    cursor:not-allowed;
+}
